@@ -1,0 +1,4 @@
+*.sqlite
+*.sqlite-journal
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
