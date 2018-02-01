@@ -2,3 +2,4 @@
 *.sqlite-journal
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*/trade_history.sqlite
